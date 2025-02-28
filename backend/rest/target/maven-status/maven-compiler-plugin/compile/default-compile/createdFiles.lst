@@ -1,0 +1,6 @@
+pl\ps\rest\config\AppConfig.class
+pl\ps\rest\Application.class
+pl\ps\rest\controller\CampaignController.class
+pl\ps\rest\controller\ProductController.class
+pl\ps\rest\controller\UserController.class
+pl\ps\rest\config\CorsConfig.class

@@ -1,0 +1,6 @@
+pl\ps\service\UserService.class
+pl\ps\service\mapper\CampaignMapper.class
+pl\ps\service\mapper\ProductMapper.class
+pl\ps\service\CampaignService.class
+pl\ps\service\mapper\UserMapper.class
+pl\ps\service\ProductService.class

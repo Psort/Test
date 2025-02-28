@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  h2-database:
+    image: oscarfonts/h2
+    container_name: h2-db
+    ports:
+      - "1521:1521"
+      - "8082:81"
+    environment:
+      H2_OPTIONS: "-ifNotExists -inMemory"
+    volumes:
+      - h2-data:/opt/h2-data
+
+volumes:
+  h2-data:

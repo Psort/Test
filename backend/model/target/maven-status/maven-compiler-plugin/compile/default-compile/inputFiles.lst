@@ -1,0 +1,14 @@
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\api\CampaignDto.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\api\CampaignEntry.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\api\ProductDto.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\api\ProductEntry.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\api\Town.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\api\UserDto.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\api\UserEntry.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\entity\AbstractEntity.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\entity\CampaignEntity.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\entity\ProductEntity.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\entity\UserEntity.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\repository\CampaignRepository.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\repository\ProductRepository.java
+E:\program_do_pracy\backend\model\src\main\java\pl\ps\model\repository\UserRepository.java
